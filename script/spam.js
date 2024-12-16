@@ -2,7 +2,7 @@ module.exports["config"] = {
     name: "spam",
     info: "Troll and spam group chats",
     usage: "[input]",
-    role: 1,
+    role: 2,
     isPrefix: true,
     guide: "spam 🤖",
     type: "troll",
